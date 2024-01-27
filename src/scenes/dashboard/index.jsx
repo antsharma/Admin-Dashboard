@@ -150,7 +150,7 @@ const Dashboard = () => {
                 fontWeight="bold"
                 color={colors.greenAccent[500]}
               >
-                $59,342.32
+                INR 49,32,599.02
               </Typography>
             </Box>
             <Box>
@@ -238,7 +238,7 @@ const Dashboard = () => {
               color={colors.greenAccent[500]}
               sx={{ mt: "15px" }}
             >
-              $48,352 revenue generated
+              INR 40,19,093.19 revenue generated
             </Typography>
             <Typography>Includes extra misc expenditures and costs</Typography>
           </Box>

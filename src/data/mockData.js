@@ -206,7 +206,7 @@ export const mockDataInvoices = [
     email: "jonsnow@gmail.com",
     cost: "21.24",
     phone: "(665)121-5454",
-    date: "03/12/2022",
+    date: "03/12/2023",
   },
   {
     id: 2,
@@ -214,7 +214,7 @@ export const mockDataInvoices = [
     email: "cerseilannister@gmail.com",
     cost: "1.24",
     phone: "(421)314-2288",
-    date: "06/15/2021",
+    date: "06/15/2023",
   },
   {
     id: 3,
@@ -222,7 +222,7 @@ export const mockDataInvoices = [
     email: "jaimelannister@gmail.com",
     cost: "11.24",
     phone: "(422)982-6739",
-    date: "05/02/2022",
+    date: "05/02/2023",
   },
   {
     id: 4,
@@ -230,7 +230,7 @@ export const mockDataInvoices = [
     email: "anyastark@gmail.com",
     cost: "80.55",
     phone: "(921)425-6742",
-    date: "03/21/2022",
+    date: "03/21/2023",
   },
   {
     id: 5,
@@ -238,7 +238,7 @@ export const mockDataInvoices = [
     email: "daenerystargaryen@gmail.com",
     cost: "1.24",
     phone: "(421)445-1189",
-    date: "01/12/2021",
+    date: "01/12/2023",
   },
   {
     id: 6,
@@ -246,7 +246,7 @@ export const mockDataInvoices = [
     email: "evermelisandre@gmail.com",
     cost: "63.12",
     phone: "(232)545-6483",
-    date: "11/02/2022",
+    date: "11/02/2023",
   },
   {
     id: 7,
@@ -254,7 +254,7 @@ export const mockDataInvoices = [
     email: "ferraraclifford@gmail.com",
     cost: "52.42",
     phone: "(543)124-0123",
-    date: "02/11/2022",
+    date: "02/11/2023",
   },
   {
     id: 8,
@@ -262,7 +262,7 @@ export const mockDataInvoices = [
     email: "rossinifrances@gmail.com",
     cost: "21.24",
     phone: "(222)444-5555",
-    date: "05/02/2021",
+    date: "05/02/2023",
   },
 ];
 
@@ -270,37 +270,37 @@ export const mockTransactions = [
   {
     txId: "01e4dsa",
     user: "johndoe",
-    date: "2021-09-01",
+    date: "2023-09-01",
     cost: "43.95",
   },
   {
     txId: "0315dsaa",
     user: "jackdower",
-    date: "2022-04-01",
+    date: "2023-04-01",
     cost: "133.45",
   },
   {
     txId: "01e4dsa",
     user: "aberdohnny",
-    date: "2021-09-01",
+    date: "2023-09-01",
     cost: "43.95",
   },
   {
     txId: "51034szv",
     user: "goodmanave",
-    date: "2022-11-05",
+    date: "2023-11-05",
     cost: "200.95",
   },
   {
     txId: "0a123sb",
     user: "stevebower",
-    date: "2022-11-02",
+    date: "2023-11-02",
     cost: "13.55",
   },
   {
     txId: "01e4dsa",
     user: "aberdohnny",
-    date: "2021-09-01",
+    date: "2023-09-01",
     cost: "43.95",
   },
   {
@@ -312,7 +312,7 @@ export const mockTransactions = [
   {
     txId: "0315dsaa",
     user: "jackdower",
-    date: "2022-04-01",
+    date: "2023-04-01",
     cost: "133.45",
   },
 ];
@@ -326,8 +326,8 @@ export const mockBarData = [
     burgerColor: "hsl(296, 70%, 50%)",
     kebab: 72,
     kebabColor: "hsl(97, 70%, 50%)",
-    donut: 140,
-    donutColor: "hsl(340, 70%, 50%)",
+    Rice: 140,
+    RiceColor: "hsl(340, 70%, 50%)",
   },
   {
     country: "AE",
@@ -337,8 +337,8 @@ export const mockBarData = [
     burgerColor: "hsl(111, 70%, 50%)",
     kebab: 58,
     kebabColor: "hsl(273, 70%, 50%)",
-    donut: 29,
-    donutColor: "hsl(275, 70%, 50%)",
+    Rice: 29,
+    RiceColor: "hsl(275, 70%, 50%)",
   },
   {
     country: "AF",
@@ -348,8 +348,8 @@ export const mockBarData = [
     burgerColor: "hsl(96, 70%, 50%)",
     kebab: 34,
     kebabColor: "hsl(106, 70%, 50%)",
-    donut: 152,
-    donutColor: "hsl(256, 70%, 50%)",
+    Rice: 152,
+    RiceColor: "hsl(256, 70%, 50%)",
   },
   {
     country: "AG",
@@ -359,8 +359,8 @@ export const mockBarData = [
     burgerColor: "hsl(326, 70%, 50%)",
     kebab: 43,
     kebabColor: "hsl(110, 70%, 50%)",
-    donut: 83,
-    donutColor: "hsl(9, 70%, 50%)",
+    Rice: 83,
+    RiceColor: "hsl(9, 70%, 50%)",
   },
   {
     country: "AI",
@@ -370,8 +370,8 @@ export const mockBarData = [
     burgerColor: "hsl(325, 70%, 50%)",
     kebab: 112,
     kebabColor: "hsl(54, 70%, 50%)",
-    donut: 35,
-    donutColor: "hsl(285, 70%, 50%)",
+    Rice: 35,
+    RiceColor: "hsl(285, 70%, 50%)",
   },
   {
     country: "AL",
@@ -381,8 +381,8 @@ export const mockBarData = [
     burgerColor: "hsl(334, 70%, 50%)",
     kebab: 167,
     kebabColor: "hsl(182, 70%, 50%)",
-    donut: 18,
-    donutColor: "hsl(76, 70%, 50%)",
+    Rice: 18,
+    RiceColor: "hsl(76, 70%, 50%)",
   },
   {
     country: "AM",
@@ -392,8 +392,8 @@ export const mockBarData = [
     burgerColor: "hsl(141, 70%, 50%)",
     kebab: 158,
     kebabColor: "hsl(224, 70%, 50%)",
-    donut: 49,
-    donutColor: "hsl(274, 70%, 50%)",
+    Rice: 49,
+    RiceColor: "hsl(274, 70%, 50%)",
   },
 ];
 
@@ -486,7 +486,7 @@ export const mockLineData = [
     ],
   },
   {
-    id: "france",
+    id: "India",
     color: tokens("dark").blueAccent[300],
     data: [
       {
@@ -540,7 +540,7 @@ export const mockLineData = [
     ],
   },
   {
-    id: "us",
+    id: "China",
     color: tokens("dark").redAccent[200],
     data: [
       {
